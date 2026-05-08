@@ -5,7 +5,7 @@
   "homepage": "https://Sukirtha-05.github.io/lifi-agri",
   "type": "module",
 
-  "scripts": {
+ "scripts": {
   "dev": "vite",
   "build": "vite build",
   "deploy": "gh-pages -d dist",
