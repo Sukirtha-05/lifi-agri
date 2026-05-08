@@ -5,13 +5,13 @@
   "homepage": "https://Sukirtha-05.github.io/lifi-agri",
   "type": "module",
 
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "deploy": "gh-pages -d dist",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  ""scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "deploy": "gh-pages -d dist",
+  "lint": "eslint .",
+  "preview": "vite preview"
+},
 
   "dependencies": {
     "react": "^19.2.5",
